@@ -20,6 +20,11 @@
   <material name="black">
     <color rgba="0 0 0 1"/>
   </material>  
+
+  <material name="red">
+    <color rgba="1 0 0 1"/>
+  </material> 
+
   <!-- It is preferred to define materials in a different file -->
 
   <link name="base_link"/>
